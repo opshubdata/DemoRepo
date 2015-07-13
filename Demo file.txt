@@ -1,4 +1,2 @@
-IssueId::39028101458
-Reviewer::opshub1
-Status::Done
-Comments::Demo file commited
+read me file 
+updated
