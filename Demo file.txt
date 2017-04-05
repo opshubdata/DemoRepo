@@ -1,6 +1,2 @@
 read me file 
-Demo File 
-
-Upodated
-changed
-changes
+Demo File
