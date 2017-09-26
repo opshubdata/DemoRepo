@@ -17,5 +17,3 @@ step5
 step6
 step7
 asdasd
-dfsd
-asddddsasd
