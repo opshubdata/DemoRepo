@@ -1,4 +1,4 @@
 Jama Jira Git Demo
 
 1. Changes made on level 1
-2. Changes in level 2
+2. Changes in level
