@@ -1,11 +1,11 @@
 Jama Jira Git Demo
 
-1. Changes made on level 1
+1. Changes in level 1
 2. Changes in level 2
 3. Changes in level 3
 4. Changes in level 4
 5. Changes in Level 5
-6. Changes in level 6asdasda
+6. Changes in level 6
 7. Changes in level 7
 8. Changes in level 8
 9. Changes in level 9
