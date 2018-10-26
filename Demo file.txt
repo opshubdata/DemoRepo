@@ -1,26 +1,3 @@
 Aras-GitHub demo some changes
 
 REQ ID-000000197
-
-Record changes
-
-Change set 1
-
-Change set 2
-
-Change set 3-11
-
-change 2
-
-w2wws swsssswss
-
-Demo Commit 
-
-Commit
-
-
-Testing done.
-
-
-Commit
-Dev done
