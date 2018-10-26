@@ -2,4 +2,3 @@ Aras-GitHub demo some changes
 
 REQ ID-000000197
 artf14231 artifact.
-a
