@@ -3,5 +3,4 @@ Aras-GitHub demo some changes
 REQ ID-000000197
 artf14235 artifact.
 
-change
 File Info
