@@ -1,7 +1,6 @@
 <?xml version="1.0"?>
 <book id="bk109">
       <author>Demo User</author>
-      
       <title>XML Developer's Guide</title>
       <genre>Computer</genre>
       <price>44.95</price>
