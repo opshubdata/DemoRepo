@@ -11,7 +11,7 @@
    <book id="bk101">
       <author>Gambardella, Matthew</author>
       <title>XML Developer's Guide</title>
-      <genre>Computer</genre>
+      <genre>Computer</genre>   
       <price>44.95</price>aaa
       <publish_date>2000-10-01</publish_date>
       <description>An in-depth look at creating applications 
